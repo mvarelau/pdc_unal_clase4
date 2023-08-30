@@ -425,7 +425,7 @@ En este <a href="https://www.youtube.com/watch?v=9iH8mY3iGLk&ab_channel=ApuntesC
 </p></details>
 </p></details><br>
 
-4. Cómo componer una canción de reggeton (casi me muero haciendo esto, me dio asco de mi mismo, pero los sacrificios por enseñar). --[Código](/cancion.ipynb)--
+4. Cómo componer una canción de reggaeton (casi me muero haciendo esto, me dio asco de mi mismo, pero los sacrificios por enseñar). --[Código](/cancion.ipynb)--
 
 -----------
 ## Reto no. 3
